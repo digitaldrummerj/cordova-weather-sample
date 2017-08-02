@@ -1,0 +1,11 @@
+{
+	"ios": {
+		"debug": {
+			"developmentTeam": "4YAJQ67246"
+		},
+		"release": {
+			"developmentTeam": "4YAJQ67246",
+			"codeSignIdentity": "iPhone Developer"
+		}
+	}
+}
